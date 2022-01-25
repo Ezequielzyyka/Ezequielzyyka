@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/Ezequielzyyka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezequielzyyka&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielzyyka&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ezequielzyyka&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielzyyka&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 ##
@@ -33,13 +33,13 @@
   <a href="https://www.oracle.com/br/java/" target="_blank"> 
   	<img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" alt="java" width="50" height="50"/> 
   </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
+  
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"> 
+  	<img src="https://img.icons8.com/color/344/c-programming.png" alt="c" width="50" height="50"/> 
   </a>
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mysql" width="50" height="50"/> 
+  
+  <a href="https://www.postgresql.org/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="50" height="50"/> 
   </a>
 </div>
   
@@ -63,3 +63,6 @@
   </a>
 </div>
   
+##
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ezequielzyyka" alt="Ezequiel-Braz" /> </p>
