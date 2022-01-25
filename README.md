@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/Ezequielzyyka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezequielzyyka&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielzyyka&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielzyyka&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
 ##
@@ -25,6 +25,22 @@
   <img src="https://cdn-icons-png.flaticon.com/512/779/779088.png" alt="github" width="50" height="50"/> 
   </a> 
   
+</div>
+  
+  ##
+  
+<div>
+  <a href="https://www.oracle.com/br/java/" target="_blank"> 
+  	<img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" alt="java" width="50" height="50"/> 
+  </a> 
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank"> 
+  	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mysql" width="50" height="50"/> 
+  </a>
 </div>
   
 ##
@@ -47,20 +63,3 @@
   </a>
 </div>
   
-##
-  
-<div>
-  <a href="https://www.oracle.com/br/java/" target="_blank"> 
-  	<img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" alt="java" width="50" height="50"/> 
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="50" height="50"/> 
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-  	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mysql" width="50" height="50"/> 
-  </a>
-</div>
-
- 
