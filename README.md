@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/Ezequielzyyka">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ezequielzyyka&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezequielzyyka&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielzyyka&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
@@ -55,7 +55,7 @@
   </a>
 
   <a href="https://wa.me/5511970257147" target="_blank">
-    <img align="center" alt="ezequiel-whatsapp" height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377218.png?token=exp=1643014087~hmac=0b242496190f4bf1cf2840fa3600aab1" style="max-width:100%;">
+    <img align="center" alt="ezequiel-whatsapp" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/134/134937.png" style="max-width:100%;">
   </a>
 
   <a href="mailto:ezequiel.braz.es@gmail.com" target="_blank">
@@ -63,6 +63,3 @@
   </a>
 </div>
   
-##
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ezequielzyyka" alt="Ezequiel-Braz" /> </p>
