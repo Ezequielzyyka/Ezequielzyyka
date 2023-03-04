@@ -54,7 +54,7 @@
     <img align="center" alt="ezequiel-instagram" height="50" width="50" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Instagram_icon-icons.com_66804.png" style="max-width:100%;">
   </a>
 
-  <a href="https://wa.me/5511970257147" target="_blank">
+  <a href="https://wa.me/5519986053666" target="_blank">
     <img align="center" alt="ezequiel-whatsapp" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/134/134937.png" style="max-width:100%;">
   </a>
 
