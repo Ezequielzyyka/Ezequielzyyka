@@ -21,7 +21,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="50" height="50"/> 
   </a> 
-  <a href="https://github-scm.com/" target="_blank"> 
+  <a href="https://github.com/" target="_blank"> 
   <img src="https://cdn-icons-png.flaticon.com/512/779/779088.png" alt="github" width="50" height="50"/> 
   </a> 
   
